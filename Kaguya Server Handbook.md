@@ -226,7 +226,7 @@ The rest of the commands can be seen using `.help` in #bot-channel.
 | `.club info <club name>`                           | Show information about a club.                                                                                                                             |
 | `.club list`                                       | List all clubs.                                                                                                                                            |
 | `.club list <full> <pings|recent|members> <@user>` | Extended club listing. `full` disables compact mode. `pings`, `recent`, `members` sets the club sorting. You can also tag a user to list only their clubs. |
-| `.club search <your search>`                       |                                                                                                                                                            |
+| `.club search <your search>`                       | Search for a club.                                                                                                                                         |
 | `.club create <club name> <club description>`      | Create a club `<club name>` with `<club description>` that people can join.                                                                                |
 | `.club delete <club name>`                         | Delete a club.                                                                                                                                             |
 | `.clubutils choose <club name> <n>`                | Choose `n` users from the club at random.                                                                                                                  |
